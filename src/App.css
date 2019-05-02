@@ -28,9 +28,8 @@
   overflow: hidden;
 }
 .board__box {
-border: 1px solid var(--lightBlue);
-   background:  var(--mainWhite) !important;
-  border:1;
+  border: 1px solid var(--lightBlue)!important;
+  background:  var(--mainWhite) !important;
   padding: 0rem;
   margin:0rem;
   text-align: left;
